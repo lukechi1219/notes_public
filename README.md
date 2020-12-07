@@ -11,12 +11,36 @@
 
 # Currently Reading
 
+https://curity.io/resources/architect/api-security/split-token-pattern/
+
+The Split Token Approach
+
+https://curity.io/resources/architect/api-security/jwt-best-practices/#1-jwts-used-as-access-tokens
+
+https://curity.io/resources/architect/api-security/jwt-best-practices/#11-do-not-use-jwts-for-sessions
+
+---
+
+https://tools.ietf.org/html/rfc8725
+
+https://tools.ietf.org/html/rfc7518
+
+---
+
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+
+http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
+
+
+
+---
+
+https://blog.logrocket.com/jwt-authentication-best-practices/
+
 JWT authentication: When and how to use it<br>
 Learn when JWT is best used, when it’s best to use something else, and <br>
 how to prevent the most basic security issues.<br>
 October 11, 2018  3 min read
-
-https://blog.logrocket.com/jwt-authentication-best-practices/
 
 Some people say you should never use it, while others say it’s amazing.
 http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/ <br>
