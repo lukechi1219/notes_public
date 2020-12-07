@@ -27,6 +27,31 @@ https://tools.ietf.org/html/rfc7518
 
 ---
 
+https://www.c-sharpcorner.com/article/understanding-workflow-of-oauth2-0-authorization-grant-types/
+
+https://www.c-sharpcorner.com/article/oauth2-0-and-openid-connect-oidc-core-concepts-what-why-how/
+
+https://www.c-sharpcorner.com/article/accesstoken-vs-id-token-vs-refresh-token-what-whywhen/
+
+
+https://developer.okta.com/docs/reference/api/oidc/
+
+https://connect2id.com/learn/openid-connect
+
+
+https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
+
+https://auth0.com/learn/refresh-tokens/
+
+https://curity.io/resources/tutorials/howtos/flows/refresh-tokens/
+
+
+
+https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1
+
+
+---
+
 http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 
 http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
