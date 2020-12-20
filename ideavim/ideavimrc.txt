@@ -1,0 +1,54 @@
+
+set showmode
+set relativenumber
+
+imap jj <ESC>
+
+imap zn <ESC>^i
+imap zl <ESC>$a
+
+nmap zn ^
+nmap zl $
+
+nmap zb viwxi
+vmap zb vviwxi
+
+nmap zdm b:action EditorSelectWord<CR>:action EditorSelectWord<CR>:action EditorDuplicate<CR>:action ReformatCode<CR>
+
+nmap ,a :action GotoAction<CR>
+nmap ,n :action GotoClass<CR>
+nmap gn :action GotoFile<CR>
+nmap ,t :action GotoTest<CR>
+
+" nmap ff :action Forward<CR>
+" nmap bb :action Back<CR>
+
+" nmap ,h ^
+" nmap ,e $
+
+nmap zk :action CheckinProject<CR>
+nmap zt :action Vcs.UpdateProject<CR>
+nmap zp :action Vcs.Push<CR>
+
+imap zra <Esc>:action ReformatCode<CR>:action Run<CR>
+nmap zra :action ReformatCode<CR>:action Run<CR>
+
+map     zrm     :action ExtractMethod<CR>
+imap    zrm     <Esc>:action ExtractMethod<CR>
+vmap    zrm     :action ExtractMethod<CR>
+vmap    M       :action ExtractMethod<CR>
+
+map     zri     :action Inline<CR>
+imap    zri     <Esc>:action Inline<CR>
+
+map     zrf     :action IntroduceField<CR>
+imap    zrf     <Esc>:action IntroduceField<CR>
+
+map     zrp     :action IntroduceParameter<CR>
+imap    zrp     <Esc>:action IntroduceParameter<CR>
+nmap    zsp     f":action IntroduceParameter<CR>
+
+map     zrv     :action IntroduceVariable<CR>
+vmap    zrv     <Esc>:action IntroduceVariable<CR>
+imap    zrv     <Esc>:action IntroduceVariable<CR>
+
