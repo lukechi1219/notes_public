@@ -13,7 +13,8 @@ nmap zl $
 nmap zb viwxi
 vmap zb vviwxi
 
-nmap zdm b:action EditorSelectWord<CR>:action EditorSelectWord<CR>:action EditorDuplicate<CR>:action ReformatCode<CR>
+nmap zdm b:action EditorSelectWord<CR>:action EditorSelectWord<CR>:action EditorDuplicate<CR>:action EditorEscape<CR>:action ReformatCode<CR>
+nmap zuc b[{5bciw
 
 nmap ,a :action GotoAction<CR>
 nmap ,n :action GotoClass<CR>
