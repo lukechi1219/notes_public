@@ -1,4 +1,4 @@
 
 ae
-assertEquals("$END$", $EXPR$);
+assertEquals($END$, $EXPR$);
 
