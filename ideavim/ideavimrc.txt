@@ -4,17 +4,19 @@ set relativenumber
 
 imap jj <ESC>
 
-imap zn <ESC>^i
+imap zn <ESC>ww
+
+imap zh <ESC>^i
 imap zl <ESC>$a
 
-nmap zn ^
+nmap zh ^
 nmap zl $
 
 nmap zb viwxi
 vmap zb vviwxi
 
 nmap zdm b:action EditorSelectWord<CR>:action EditorSelectWord<CR>:action EditorDuplicate<CR>:action EditorEscape<CR>:action ReformatCode<CR>
-nmap zuc b[{5bciw
+nmap zuc b[{2bciw
 
 nmap ,a :action GotoAction<CR>
 nmap ,n :action GotoClass<CR>
