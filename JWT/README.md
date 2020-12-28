@@ -5,6 +5,27 @@ https://docs.google.com/document/d/1u8Y6E2uW0Oa-OqQ-O7wrGoOBODGhGQVh22Gxmjyqbow/
 folder Backend API Server <br>
 https://drive.google.com/drive/folders/1I0MAuPjZ03QOTiu8zjAKadfGzVwejZtw
 
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+
+http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
+
+https://www.c-sharpcorner.com/article/accesstoken-vs-id-token-vs-refresh-token-what-whywhen/
+
+https://curity.io/resources/architect/api-security/jwt-best-practices/#11-do-not-use-jwts-for-sessions
+
+https://connect2id.com/learn/openid-connect
+
+https://www.c-sharpcorner.com/article/understanding-workflow-of-oauth2-0-authorization-grant-types/
+
+https://www.c-sharpcorner.com/article/oauth2-0-and-openid-connect-oidc-core-concepts-what-why-how/
+
+google: openid connect jwt refresh token access token
+
+https://auth0.com/docs/authorization/sample-use-cases-rules-with-authorization
+
+https://auth0.com/docs/best-practices/rules-best-practices
+
+
 淺談JWT的安全性與適用情境 <br>
 https://jamessie.com/featured/%e6%b7%ba%e8%ab%87jwt%e7%9a%84%e5%ae%89%e5%85%a8%e6%80%a7%e8%88%87%e9%81%a9%e7%94%a8%e6%83%85%e5%a2%83/
 
@@ -56,6 +77,10 @@ https://pjchender.github.io/2017/09/25/note-jwt-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A
 
 jwt与token+redis，哪种方案更好用？ <br>
 https://blog.csdn.net/swq463/article/details/107810849?utm_medium=distribute.wap_relevant.none-task-blog-title-2
+
+https://curity.io/resources/architect/api-security/the-api-security-maturity-model/#level-3-centralized-trust-using-claims
+
+https://curity.io/resources/architect/api-security/owasp-to-ten/
 
 
 
