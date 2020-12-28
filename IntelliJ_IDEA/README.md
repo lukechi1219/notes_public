@@ -155,5 +155,18 @@ https://teuxdeux.com/purpose
 
 https://teuxdeux.com/
 
+easyCode生成代码配置 <br>
+https://www.cnblogs.com/360minitao/p/12381735.html
+
+https://www.itread01.com/content/1544350525.html
+
+https://blog.csdn.net/chenhq_/article/details/82693715
+
+https://medium.com/javarevisited/how-to-write-less-code-in-java-11-using-lombok-90bcc255ee1f
+
+
+
+
+
 
 

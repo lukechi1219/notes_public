@@ -1,4 +1,76 @@
 
+https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
+
+https://tools.ietf.org/html/rfc7636
+
+https://auth0.com/docs/flows/authorization-code-flow-with-proof-key-for-code-exchange-pkce
+
+https://auth0.com/learn/token-based-authentication-made-easy/
+
+google image: token based authentication
+
+google: token based authentication
+
+
+驗證與授權 <br>
+https://www.ithome.com.tw/voice/134389
+
+https://tools.ietf.org/html/rfc7519
+
+https://auth0.com/learn/refresh-tokens/
+
+https://auth0.com/docs
+
+https://auth0.com/docs/tokens/refresh-tokens
+
+https://auth0.com/docs/tokens/refresh-tokens/refresh-token-rotation
+
+https://auth0.com/docs/flows/authorization-code-flow
+
+https://auth0.com/docs/flows/resource-owner-password-flow
+
+https://auth0.com/docs/flows/device-authorization-flow
+
+https://auth0.com/docs/quickstart/spa
+
+https://auth0.com/docs/quickstart/native
+
+
+https://developers.google.com/identity/protocols/oauth2/service-account
+
+https://developers.google.com/identity/protocols/oauth2/openid-connect
+
+https://developers.google.com/identity/sign-in/web/backend-auth
+
+google: sign in with google jwt
+
+Cookies vs Token，在AngularJS中使用正确的验证方式 <br>
+https://www.jianshu.com/p/153807857292
+
+https://5xruby.tw/posts/hello-spa-rails-api-server/
+
+我是誰？我在哪？ <br>
+https://ithelp.ithome.com.tw/users/20102562/ironman/2923
+
+https://blog.albert-chen.com/laravel-auto-refresh-jwt/
+
+https://kylinyu.win/api_token_design/
+
+https://pjchender.github.io/2017/09/25/note-jwt-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/
+
+https://medium.com/%E4%BC%81%E9%B5%9D%E4%B9%9F%E6%87%82%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/jwt-json-web-token-%E5%8E%9F%E7%90%86%E4%BB%8B%E7%B4%B9-74abfafad7ba
+
+https://jamessie.com/featured/%e6%b7%ba%e8%ab%87jwt%e7%9a%84%e5%ae%89%e5%85%a8%e6%80%a7%e8%88%87%e9%81%a9%e7%94%a8%e6%83%85%e5%a2%83/
+
+https://medium.com/mr-efacani-teatime/%E6%B7%BA%E8%AB%87jwt%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E8%88%87%E9%81%A9%E7%94%A8%E6%83%85%E5%A2%83-301b5491b60e
+
+微服務架構#4, 如何強化微服務的安全性? API Token / JWT 的應用 <br>
+https://columns.chicken-house.net/2016/12/01/microservice7-apitoken/
+
+google: token 使用情境
+
+
+
 Backend API server notes <br>
 https://docs.google.com/document/d/1u8Y6E2uW0Oa-OqQ-O7wrGoOBODGhGQVh22Gxmjyqbow/edit?pli=1
 
@@ -82,6 +154,15 @@ https://curity.io/resources/architect/api-security/the-api-security-maturity-mod
 
 https://curity.io/resources/architect/api-security/owasp-to-ten/
 
+如何整合 Sign in with Apple 到自己的 iOS App 上 (iOS & Backend) <br>
+https://medium.com/@tuzaiz/%E5%A6%82%E4%BD%95%E6%95%B4%E5%90%88-sign-in-with-apple-%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84-ios-app-%E4%B8%8A-ios-backend-e64d9de15410
 
+
+https://developers.google.com/assistant/identity/google-sign-in-oauth
+
+https://auth0.com/docs/quickstart/webapp
+
+https://auth0.com/docs/flows/add-login-using-the-authorization-code-flow-with-pkce
+https://auth0.com/docs/flows/add-login-using-the-authorization-code-flow-with-pkce
 
 
