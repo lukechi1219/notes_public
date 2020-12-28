@@ -7,6 +7,29 @@ https://drive.google.com/drive/u/0/folders/1vFExYmBoZH2JDhQL5hwujUMb04I8KuGV
 善用手上的屠龍刀！IntelliJ IDEA 的生產力技巧 - 范聖佑 <br>
 https://hackmd.io/@jcconf/2019/https%3A%2F%2Fhackmd.io%2F%40JCConf%2FHkl8GTZ_B
 
+https://tw.intellij.tips/tips/sg28pw/gradle-dependencies-diagram
+https://tw.intellij.tips/tips/bwrjge/toggle-between-classes-and-test-to-speed-up-tdd
+https://tw.intellij.tips/tips/aiqz4i/productivity-guide
+https://tw.intellij.tips/tips/cixktk/test-regular-expressions-with-language-injections
+https://tw.intellij.tips/tips/r24uef/quick-switch-scheme
+https://tw.intellij.tips/tips/yppdfs/editor-background-and-opacity
+https://tw.intellij.tips/tips/yiiacy/three-shortcut-for-refactoring
+https://tw.intellij.tips/tips/tnqj1l/json-editing-with-language-injections
+https://tw.intellij.tips/tips/p4hj8l/relationship-diagrams-for-your-code
+https://tw.intellij.tips/tips/t5qurx/assign-abbreviations-to-menu-items
+https://tw.intellij.tips/tips/vfkxyi/create-test-with-class-declaration
+https://tw.intellij.tips/tips/zzue1e/switch-between-declaration-and-usages
+https://tw.intellij.tips/tips/ijlqgc/smart-suggestion-using-alt-enter
+https://tw.intellij.tips/tips/6wn68u/autocomplete-for-keyword-and-variable-names-even-has-typos
+https://tw.intellij.tips/tips/w4brog/adjusting-code-style-using-alt-enter
+https://tw.intellij.tips/plugins/foufin/markdown
+https://tw.intellij.tips/plugins/83ephl/ideavim
+https://tw.intellij.tips/plugins/nnbune/lombok
+
+https://tw.intellij.tips/tips?page=1
+
+
+
 https://tdd.best/blog/code-coverage-and-tdd/
 
 再一次重新學習「重構與TDD」 <br>
@@ -111,6 +134,26 @@ https://tdd.best/courses/extreme-developing-202104/
 https://dotblogs.com.tw/hatelove/Series?qq=%E6%A5%B5%E9%80%9F%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7
 
 https://dotblogs.com.tw/hatelove/2019/02/18/extreme-developing-training
+
+https://teuxdeux.com/blog/productivity-101-simple-ways-to-get-more-done
+
+https://teuxdeux.com/blog/ego-depletion-the-social-psychology-of-self-control
+
+https://teuxdeux.com/blog/flow-state-the-psychology-of-fulfillment-and-happiness
+
+https://teuxdeux.com/blog/deuxing-it-like-eisenhower-how-to-stash-plans-for-later-and-stay-focused-on
+
+https://teuxdeux.com/blog
+
+https://teuxdeux.com/copyright
+
+https://teuxdeux.com/terms
+
+https://teuxdeux.com/wunderlist
+
+https://teuxdeux.com/purpose
+
+https://teuxdeux.com/
 
 
 
