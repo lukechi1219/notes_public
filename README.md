@@ -11,6 +11,10 @@
 
 # Currently Reading
 
+社畜的出路在哪裡？你為什麼那麼努力卻還是無法擺脫貧窮？
+
+
+
 https://curity.io/resources/architect/api-security/split-token-pattern/
 
 The Split Token Approach
