@@ -2,6 +2,9 @@
 set showmode
 set relativenumber
 
+nmap j <Up>
+nmap k <Down>
+
 imap jj <ESC>
 
 imap zn <ESC>ww
