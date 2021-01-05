@@ -13,6 +13,11 @@ You don’t need to coordinate sessions in a centralized database when you get t
 - 也不需要 ignite
 - 但是需要 Redis for black list of expires, log-out token
 
+.
+
+Refresh Token
+- under OAuth or OpenID
+- not in OAuth
 
 ## Redisson
 
@@ -20,5 +25,15 @@ https://dzone.com/articles/redis-based-tomcat-session-management
 
 Redis-Based Tomcat Session Management
 
+.
 
+- API Token 要解決的難題
+  - 微服務架構#4, 如何強化微服務的安全性? API Token / JWT 的應用 <br>
+  - https://columns.chicken-house.net/2016/12/01/microservice7-apitoken/
+  - 阻擋-replay-attack
+  - JWT 適用情境
+    - 軟體的啟用序號
+    - 雲端分散式的系統驗證
+    - .
+  
 

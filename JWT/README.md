@@ -1,35 +1,35 @@
 
-https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
-
-https://tools.ietf.org/html/rfc7636
-
-https://auth0.com/docs/flows/authorization-code-flow-with-proof-key-for-code-exchange-pkce
-
-https://auth0.com/learn/token-based-authentication-made-easy/
-
-google image: token based authentication
-
-google: token based authentication
-
-
-驗證與授權 <br>
-https://www.ithome.com.tw/voice/134389
-
-https://tools.ietf.org/html/rfc7519
-
-https://auth0.com/learn/refresh-tokens/
-
-https://auth0.com/docs
-
-https://auth0.com/docs/tokens/refresh-tokens
-
-https://auth0.com/docs/tokens/refresh-tokens/refresh-token-rotation
 
 https://auth0.com/docs/flows/authorization-code-flow
 
 https://auth0.com/docs/flows/resource-owner-password-flow
 
 https://auth0.com/docs/flows/device-authorization-flow
+
+
+
+https://auth0.com/docs/flows/authorization-code-flow-with-proof-key-for-code-exchange-pkce
+
+https://auth0.com/learn/token-based-authentication-made-easy/
+
+https://tools.ietf.org/html/rfc7636
+
+google image: token based authentication
+
+google: token based authentication
+
+驗證與授權 <br>
+https://www.ithome.com.tw/voice/134389
+
+https://tools.ietf.org/html/rfc7519
+
+
+https://auth0.com/docs
+
+
+https://auth0.com/docs/tokens/refresh-tokens/refresh-token-rotation
+
+
 
 https://auth0.com/docs/quickstart/spa
 
@@ -64,8 +64,7 @@ https://jamessie.com/featured/%e6%b7%ba%e8%ab%87jwt%e7%9a%84%e5%ae%89%e5%85%a8%e
 
 https://medium.com/mr-efacani-teatime/%E6%B7%BA%E8%AB%87jwt%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E8%88%87%E9%81%A9%E7%94%A8%E6%83%85%E5%A2%83-301b5491b60e
 
-微服務架構#4, 如何強化微服務的安全性? API Token / JWT 的應用 <br>
-https://columns.chicken-house.net/2016/12/01/microservice7-apitoken/
+
 
 google: token 使用情境
 
