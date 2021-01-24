@@ -28,6 +28,14 @@ https://tw.intellij.tips/plugins/nnbune/lombok
 
 https://tw.intellij.tips/tips?page=1
 
+https://levelup.gitconnected.com/how-to-configure-intellij-idea-to-keep-you-in-the-flow-state-ae08fb942a70?gi=120d7b6ada82
+
+https://medium.com/better-programming/intellij-keyboard-shortcuts-to-swear-by-7638c0efcc76
+
+https://medium.com/@andrey_cheptsov/top-20-navigation-features-in-intellij-idea-ed8c17075880
+
+https://blog.jetbrains.com/idea/2016/06/intellij-idea-2016-2-eap-adds-breadcrumb-for-java/
+
 
 
 https://tdd.best/blog/code-coverage-and-tdd/
