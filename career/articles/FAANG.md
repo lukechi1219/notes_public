@@ -1,5 +1,11 @@
 # FAANG
 
+## silicon-valley
+
+https://bettywutalk.com/blog/category/silicon-valley/
+
+.
+
 ## 2021-09-29 找到對於資料分析的熱愛，加入 FAANG 的數據工作日常 | UMN MSBA
 
 https://www.willstudy.tw/umn-msba-kitlyn-kuo/
