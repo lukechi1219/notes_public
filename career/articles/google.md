@@ -285,5 +285,11 @@ https://taiwan.googleblog.com/2021/11/googler-story-sharing-foreign-googler.html
 Gregory Moore：台灣團隊的能力相當傑出，且同時有硬體工程師、軟體工程師、測試工程師、實驗室工程師等成員。在我負責的這個領域中，台灣更是全球唯一一個在開車或搭車就能抵達的距離內，同時集結開發、採購、供應鏈和資料中心的地方，這提供了巨大的產業優勢，也為團隊之間端對端的合作創造了絕佳機會。另外，對於資訊科技領域的人來說，台灣有許多全球大型科技公司在此駐點，在台灣工作也有更多機會能與這些公司的高階主管進行交流。
 
 
+## 「我們犯了兩個重大錯誤」來自Google員工離職前的告白 
+
+https://betweengos.com/im-leaving-google-and-why-is-it-so-difficult-to-leave/
+
+## 
+## 
 ## 
 ## 

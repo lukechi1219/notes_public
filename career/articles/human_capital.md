@@ -171,6 +171,11 @@ Google是少數幾家用新方法來運用分析的公司。直到最近，資�
 （劉純佑譯自“How Google Sold Its Engineers on Management,”HBR, December 2013）
 
 
-## 
+## 2015/03/13 別聽「河馬」的意見：「Google模式」給職場新鮮人、創業者與主管們的6種工作啟發
+
+https://www.thenewslens.com/article/13831
+
+
+
 ## 
 ## 
