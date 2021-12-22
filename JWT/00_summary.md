@@ -32,6 +32,7 @@ Redis-Based Tomcat Session Management
   - https://columns.chicken-house.net/2016/12/01/microservice7-apitoken/
   - 阻擋-replay-attack
   - JWT 適用情境
+    - for password
     - 軟體的啟用序號
     - 雲端分散式的系統驗證
     - .
