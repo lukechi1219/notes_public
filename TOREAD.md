@@ -37,6 +37,9 @@ https://idratherbewriting.com/learnapidoc/pubapis_openapi_step1_openapi_object.h
 職涯上的成長無窮無盡，如何在有限的時間裡最大化利用你的注意力，去學習對你來說最重要的硬實力和軟實力，本身就是一門課題。大家平常都是怎麼精進自己的呢？還有什麼想要學的希望我分享的呢？歡迎留言分享。也歡迎追蹤我的臉書專頁「矽谷資深女工程師」！
 ```
 
+https://nx.dev/more-concepts/nx-devkit-angular-devkit
+
+
 
 https://albert-kuo.blogspot.com/search/label/Project%20Management
 
@@ -68,6 +71,21 @@ https://www.zeczec.com/projects/aka-eachup?r=d7bb38716e
 
 Candice蔡譯心
 https://www.facebook.com/watch/?v=873135873231843
+
+
+
+---
+
+https://www.alphaloan.co/
+
+http://blog.cashwu.com/blog/must_for_engineers/
+
+敏捷轉型的四個階段
+
+http://studyhost.blogspot.com/2022/09/blog-post.html
+
+
+
 
 
 曾月花200萬租豪宅、每晚泡夜店...38歲從破產再翻年收4億：我從那段「縱慾歲月」學到的事
