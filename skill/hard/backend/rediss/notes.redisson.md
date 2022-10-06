@@ -30,3 +30,6 @@ https://www.modb.pro/db/412822
 
 https://github.com/redisson/redisson/wiki/5.-Data-partitioning-(sharding)
 
+https://www.slideshare.net/RedisLabs/redisconf17-distributed-java-map-structures-and-services-with-redisson
+
+
