@@ -261,6 +261,25 @@ https://www.instaclustr.com/blog/redis-streams-vs-apache-kafka/
 ---
 
 
+A few key problems in Redis persistence
+
+http://oldblog.antirez.com/post/a-few-key-problems-in-redis-persistence.html
+
+
+Improving key expiration in Redis  By  matt_tejo  Friday, 12 April 2019
+
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis
+
+
+https://cloud.google.com/memorystore/docs/redis/memory-management-best-practices
+
+
+https://docs.redis.com/latest/ri/memory-optimizations/#data-modeling-recommendations
+
+
+https://docs.redis.com/latest/ri/memory-optimizations/#developer-best-practices
+
+https://linuxhint.com/enable-compression-redis/
 
 
 
